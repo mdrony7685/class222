@@ -1,0 +1,19 @@
+h1{
+		margin:0px;
+	}
+	p{
+		fort-size: 25px;
+	 margin:0px;
+	}
+	body{
+		margin: 0px;
+	}
+ div{
+ 	color:#8cef13;
+ background-color: #2437cf;
+  padding: 40px; 
+  width: 1000px; 
+  margin-left: auto;
+   margin-right: auto;
+   text-align: center; 
+}
